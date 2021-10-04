@@ -1,0 +1,10 @@
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Shared\obj\Debug\netcoreapp3.1\SampleTemplate.Shared.GeneratedMSBuildEditorConfig.editorconfig

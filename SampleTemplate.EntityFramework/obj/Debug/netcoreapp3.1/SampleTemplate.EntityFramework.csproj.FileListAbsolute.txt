@@ -1,0 +1,15 @@
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.EntityFramework\obj\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Entities\obj\Debug\netcoreapp3.1\SampleTemplate.Entities.GeneratedMSBuildEditorConfig.editorconfig

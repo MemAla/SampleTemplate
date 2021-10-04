@@ -1,0 +1,16 @@
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Application.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Application.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Application.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.EntityFramework.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\bin\Debug\netcoreapp3.1\SampleTemplate.Shared.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.dll
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.pdb
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\SampleTemplate\SampleTemplate.Application\obj\Debug\netcoreapp3.1\SampleTemplate.Application.GeneratedMSBuildEditorConfig.editorconfig
